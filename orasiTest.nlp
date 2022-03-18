@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=orasiTest
+project.version=8.3
+project.original.version=8.3
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=7.10.0
+project.id=d3c484c2-3615-467b-b3be-dfd69af0bdb0
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/sweisfeldt/Test
